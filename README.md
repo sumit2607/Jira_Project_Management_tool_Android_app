@@ -22,7 +22,14 @@ Dependency Used
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
     
     
-    
+ ## Instructions to clone this project ✌
+1. Open Android Studio.
+2. Go to File > New > Project From Version Control.
+3. Copy the link of this repositary.
+4. Paste the link in Url Box of Android Studio window and click on "Clone" button.
+
+## Here are the some screenshots of the cloned application
+
     
 
 ![GitHub Cards Preview](https://github.com/sumit2607/Jira_Project_Management_tool_Android_app/blob/master/2.png)
