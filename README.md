@@ -1,9 +1,9 @@
 # Jira_Project_Management_tool_Android_app
 Jira_Project_Management tools are  software designed to help project teams to plan a project, track &amp; manage the projects to achieve the defined project goals within the time. It also helps team members to collaborate effectively and accelerate the projects to meet the specified constraints.
 
-Dependency Used
+# Dependencies
 
- // Firebase Authentication Dependency
+// Firebase Authentication Dependency
     implementation "com.google.firebase:firebase-auth:19.2.0"
     // Firebase Cloud Firestore Dependency
     implementation 'com.google.firebase:firebase-firestore:21.4.0'
